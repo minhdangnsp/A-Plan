@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="testTT.BuildingManager">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAgAAAAAAAAIAAAAAAABAAAAAQAAAAAAAAAA=</HashCode>
+      <FileName>BuildingManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="testTT.DataProvider">
+    <Position X="4.5" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAACAABAIAAEAAAABAAIBBQAAQAAAAAAA=</HashCode>
+      <FileName>DataProvider.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="testTT.EventManager">
+    <Position X="2.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEAAAAAAAgAAAABAAAAAAAAAAABAAAAAQAAAAAAAAAA=</HashCode>
+      <FileName>EventManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="testTT.Statistic_Manager">
+    <Position X="2.25" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAQABAAAAAAAAAAAAABAAAAAABAAAAAQQAABACAAAA=</HashCode>
+      <FileName>Statistic_Manager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="testTT.StudentManager">
+    <Position X="0.5" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABAAAAAAAAAgAABAAAAAAAAABAAAAAQAAAAAAAAAA=</HashCode>
+      <FileName>StudentManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="testTT.Program">
+    <Position X="6.75" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="testTT.LoginForm" Collapsed="true">
+    <Position X="6.75" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAoCoDEQGKJQQDABAEDAjCBKAGAAGAADAAAQAwFwAEA=</HashCode>
+      <FileName>LoginForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="testTT.MainForm" Collapsed="true">
+    <Position X="7.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>/z9Ke3d37mIWQ/1T79LXfyH3fvf5Yy0FXNx6w6jvNvA=</HashCode>
+      <FileName>MainForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

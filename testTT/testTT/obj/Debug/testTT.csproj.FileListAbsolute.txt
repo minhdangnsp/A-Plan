@@ -1,0 +1,21 @@
+C:\Users\Asus GL503\Desktop\testTT\testTT\bin\Debug\testTT.exe.config
+C:\Users\Asus GL503\Desktop\testTT\testTT\obj\Debug\testTT.csprojResolveAssemblyReference.cache
+C:\Users\Asus GL503\Desktop\testTT\testTT\obj\Debug\testTT.Properties.Resources.resources
+C:\Users\Asus GL503\Desktop\testTT\testTT\obj\Debug\testTT.csproj.GenerateResource.Cache
+C:\Users\Asus GL503\Desktop\testTT\testTT\bin\Debug\testTT.exe
+C:\Users\Asus GL503\Desktop\testTT\testTT\bin\Debug\testTT.pdb
+C:\Users\Asus GL503\Desktop\testTT\testTT\obj\Debug\testTT.exe
+C:\Users\Asus GL503\Desktop\testTT\testTT\obj\Debug\testTT.pdb
+C:\Users\Asus GL503\Desktop\testTT\testTT\obj\Debug\testTT.LoginForm.resources
+C:\Users\Asus GL503\Desktop\testTT\testTT\obj\Debug\testTT.MainForm.resources
+E:\HK182\Thực Tập CNPM\A-Plan3\testTT\testTT\bin\Debug\testTT.exe.config
+E:\HK182\Thực Tập CNPM\A-Plan3\testTT\testTT\bin\Debug\testTT.exe
+E:\HK182\Thực Tập CNPM\A-Plan3\testTT\testTT\bin\Debug\testTT.pdb
+E:\HK182\Thực Tập CNPM\A-Plan3\testTT\testTT\obj\Debug\testTT.csprojAssemblyReference.cache
+E:\HK182\Thực Tập CNPM\A-Plan3\testTT\testTT\obj\Debug\testTT.LoginForm.resources
+E:\HK182\Thực Tập CNPM\A-Plan3\testTT\testTT\obj\Debug\testTT.MainForm.resources
+E:\HK182\Thực Tập CNPM\A-Plan3\testTT\testTT\obj\Debug\testTT.Properties.Resources.resources
+E:\HK182\Thực Tập CNPM\A-Plan3\testTT\testTT\obj\Debug\testTT.csproj.GenerateResource.cache
+E:\HK182\Thực Tập CNPM\A-Plan3\testTT\testTT\obj\Debug\testTT.csproj.CoreCompileInputs.cache
+E:\HK182\Thực Tập CNPM\A-Plan3\testTT\testTT\obj\Debug\testTT.exe
+E:\HK182\Thực Tập CNPM\A-Plan3\testTT\testTT\obj\Debug\testTT.pdb

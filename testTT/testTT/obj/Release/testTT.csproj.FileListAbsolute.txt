@@ -1,0 +1,11 @@
+E:\HK182\Thực Tập CNPM\A-Plan3\testTT\testTT\bin\Release\testTT.exe.config
+E:\HK182\Thực Tập CNPM\A-Plan3\testTT\testTT\bin\Release\testTT.exe
+E:\HK182\Thực Tập CNPM\A-Plan3\testTT\testTT\bin\Release\testTT.pdb
+E:\HK182\Thực Tập CNPM\A-Plan3\testTT\testTT\obj\Release\testTT.csprojAssemblyReference.cache
+E:\HK182\Thực Tập CNPM\A-Plan3\testTT\testTT\obj\Release\testTT.LoginForm.resources
+E:\HK182\Thực Tập CNPM\A-Plan3\testTT\testTT\obj\Release\testTT.MainForm.resources
+E:\HK182\Thực Tập CNPM\A-Plan3\testTT\testTT\obj\Release\testTT.Properties.Resources.resources
+E:\HK182\Thực Tập CNPM\A-Plan3\testTT\testTT\obj\Release\testTT.csproj.GenerateResource.cache
+E:\HK182\Thực Tập CNPM\A-Plan3\testTT\testTT\obj\Release\testTT.csproj.CoreCompileInputs.cache
+E:\HK182\Thực Tập CNPM\A-Plan3\testTT\testTT\obj\Release\testTT.exe
+E:\HK182\Thực Tập CNPM\A-Plan3\testTT\testTT\obj\Release\testTT.pdb
